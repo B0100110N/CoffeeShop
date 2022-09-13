@@ -33,14 +33,15 @@ SizeRequestAmount = input()
 if int(SizeRequestAmount) == 1:
     print("Okay. " + SizeRequestAmount + " " + SizeRequest + ", " + order + " coffee. Would you like anything else?")
 elif int(SizeRequestAmount) != 1:
-    print("Okay. " + amount + " " + SizeRequest + ", " + order + " coffee's.\n")
+    print("Okay. " + amount + " " + SizeRequest + ", " + order + " coffee's. Would you like anything else?\n")
 
 #not finished here <---
-AddToOrder = input("Would you like anything else?")
-if AddToOrder == "yes":
-    print("Okay, what else would you like?")
-elif AddToOrder == "no":
-    print("Okay!")
+
+#AddToOrder = input("Would you like anything else?")
+#if AddToOrder == "yes":
+   #print("Okay, what else would you like?")
+#elif AddToOrder == "no":
+    #print("Okay!")
 
 #end to unfished code --->
 
