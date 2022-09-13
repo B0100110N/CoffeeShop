@@ -1,8 +1,5 @@
 # coffee shop program :)
 
-from ssl import OP_NO_RENEGOTIATION
-
-
 print("\n\n\nHello, welcome to Ben's Coffee House!")
 name = (input("What is your name?\n"))
 print("\nHello, " + name + ", thank you so much for coming in today!\n")
