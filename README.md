@@ -1,0 +1,2 @@
+# CoffeeShop
+This is my fist Python program, which I built a few days after learning some of the basic Python syntax. I know most of you will cringe at it, but please remember I am a complete beginner and this is all new to me. You will be ordering a coffee from a coffee shop, play a simple guessing game, and answer a few questions along the way. It's super short. Please lmk how I can improve this!
